@@ -1,0 +1,16 @@
+{
+  "Inventario": [
+    {
+      "id": 1,
+      "Nombre": "Café",
+      "Presentacion": "1kg",
+      "Cantidad": "15"
+    },
+    {
+      "id": 2,
+      "Nombre": "Arrocito",
+      "Presentacion": "1kg",
+      "Cantidad": "35"
+    }
+  ]
+}
